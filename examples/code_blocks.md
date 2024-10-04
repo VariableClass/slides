@@ -23,6 +23,7 @@ Currently supported languages:
 * `swift`
 * `dart`
 * `v`
+* `csharp`
 <!-- * `secret` -->
 
 ---
@@ -191,4 +192,12 @@ println('Hello, world!')
 object Main extends App {
   println("Hello")
 }
+```
+
+---
+
+### C#
+
+```csharp
+Console.WriteLine("Hello, world!");
 ```
